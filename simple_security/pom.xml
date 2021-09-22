@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.apkkids</groupId>
-	<artifactId>normal_security</artifactId>
+	<artifactId>simple_security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>normal_security</name>
+	<name>simple_security</name>
 	<description>a normal example for Spring Security</description>
 
 	<parent>
